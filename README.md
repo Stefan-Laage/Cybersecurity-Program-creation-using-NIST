@@ -5,6 +5,15 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 
 # NIST Cyber Security Assessment
 
+## Overview
+
+- **Identify** — Understand your environment: assets, business context, governance, and risk.
+- **Protect** — Put safeguards in place: access control, awareness, data security, and protective technology.
+- **Detect** — Spot issues fast: logging, monitoring, anomaly detection, and detection processes.
+- **Respond** — Contain and handle incidents: response planning, communications, analysis, and mitigation.
+- **Recover** — Restore and improve: recovery planning, communications, and resilience improvements.
+
+
 ## Identify
 
 | Sub-Category | Control Objective | Control description | Questions to ask | Pass/ Fail | Comments |
