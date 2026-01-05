@@ -13,6 +13,7 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 - **Respond** — Contain and handle incidents: response planning, communications, analysis, and mitigation.
 - **Recover** — Restore and improve: recovery planning, communications, and resilience improvements.
 
+---
 
 ## Identify
 
@@ -42,6 +43,9 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 | Risk Management Strategy | The organization’s priorities, constraints, risk tolerances, and assumptions are established and used to support operational risk decisions. | Risk management processes are established, managed and agreed to by organizational stakeholders. | 1. Has the risk management process been endorsed by senior management?<br> |  |  |
 |  |  | Organizational risk tolerance is determined and clearly expressed. | 1. Determine if the organization has defined and approved a cyber risk appetite statement. This will be derived from the risk tolerance of the organisation. |  |  |
 |  |  | The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector-specific risk analysis. | 1. If the organisation is considered a critical infrastructure, then the cyber risk and overall risk tolerance should take this into consideration. <br> |  |  |
+
+
+---
 
 
 
@@ -87,6 +91,9 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 
 
 
+---
+
+
 ## Detect
 
 | Sub-Category | Control Objective | Control description | Questions to ask | Pass/ Fail | Comments |
@@ -111,6 +118,9 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 |  |  | Detection processes are continuously improved. | 1. Do you incorporate 'lessons learned' as part of your incident response? Is there a process to continuously improve detection capabilities? |  |  |
 
 
+---
+
+
 
 ## Respond
 
@@ -131,6 +141,9 @@ This assessment evaluates organisational cybersecurity maturity across the five 
 |  |  | Newly identified vulnerabilities are mitigated or documented as accepted risk. | 1. Do you have a comprehensive vulnerability management program that accounts for new vulnerabilities that are newly discovered (including zero days)? Do you have a process to dealing with them? |  |  |
 | Improvements | Organizational response activities are improved by incorporating lessons learned from current and previous detection/response activities. | Response plans incorporate lessons learned. | 1. Do your incident response plans include a "lessons learned" step? |  |  |
 |  |  | Response strategies are updated. | 1. Do you periodically test and update your incident response plans? |  |  |
+
+
+---
 
 
 
